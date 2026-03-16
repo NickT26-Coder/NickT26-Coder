@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick
-- 🌱 I’m currently learning web development with React and Django
+- 🌱 I’m currently learning web development with React and Django. I also have exposure to Java, C# and SQL.
 - 📫 You can reach me on [LinkedIn](www.linkedin.com/in/nicholas-tingen) or through [Email](nicholastingen@outlook.com)
 
 <!---
